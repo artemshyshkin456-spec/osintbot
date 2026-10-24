@@ -1,0 +1,9 @@
+aiogram==3.15.0
+aiosqlite==0.20.0
+phonenumbers==8.13.47
+maigret==0.5.0a
+aiohttp==3.10.10
+beautifulsoup4==4.12.3
+lxml==5.3.0
+funstat-api==1.0.4
+python-dotenv==1.0.1
